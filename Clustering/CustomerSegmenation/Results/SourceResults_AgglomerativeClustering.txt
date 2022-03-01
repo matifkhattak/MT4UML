@@ -1,0 +1,11 @@
+
+=========Diff clusters having silhouette scores===========
+For n_clusters=2, the silhouette score is 0.7093587431754587
+For n_clusters=3, the silhouette score is 0.5812590418480046
+For n_clusters=4, the silhouette score is 0.5752628861689668
+For n_clusters=5, the silhouette score is 0.45705197586631924
+For n_clusters=6, the silhouette score is 0.4453489438577234
+For n_clusters=7, the silhouette score is 0.4439038975809836
+For n_clusters=8, the silhouette score is 0.4439223465552986
+
+

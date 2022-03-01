@@ -1,0 +1,29 @@
+Initial centeroids: [-0.3  -0.26  0.9 ] [ 1.2   2.8  -0.41]  [-0.02 -0.24 -0.17]]
+=========Diff clusters having silhouette scores===========
+For n_clusters=2, the silhouette score is 0.5415858652525395
+For n_clusters=3, the silhouette score is 0.5084896296141937
+For n_clusters=4, the silhouette score is 0.47979895534875416
+For n_clusters=5, the silhouette score is 0.4662700564189704
+For n_clusters=6, the silhouette score is 0.4169897163641209
+For n_clusters=7, the silhouette score is 0.41612067531472835
+For n_clusters=8, the silhouette score is 0.4092006241351431
+
+============================================================
+Centeroids class labels:  [0 1 2]
+SSD:  4433.747689347621
+Number of iterations used 6
+                                                                Amount  Frequency   Recency
+Cluster[0] centeroid:                                           [-0.50237552 -0.51846606  1.54212771]
+Nearest point to cluster[0] centeroid: 186                       -0.486919  -0.533455  1.519395
+Distance of Nearest point to cluster[0] centeroid:              [0.03131066]
+
+Cluster[1] centeroid:                                           [2.08754921  2.10491086 -0.70109576]
+Nearest point to cluster[1] centeroid: 1411                     1.89444   2.069808 -0.688633
+Distance of Nearest point to cluster[1] centeroid:              [0.19666919]
+
+Cluster[2] centeroid:                                           [-0.1786575  -0.17548993 -0.47650124]
+Nearest point to cluster[2] centeroid: 2790                      -0.164384  -0.104565 -0.480702
+Distance of Nearest point to cluster[2] centeroid:              [0.07246855]
+
+============================================================
+Number of iterations used: 6
